@@ -1,1 +1,1 @@
-# -Live-Translate
+# Live-Translate
